@@ -3,7 +3,7 @@ Currently working/studying on Data Analysis & Engineering.
 		Socials
 	🔗linkedin@FurkanKovankaya
 	🐦twitter@FurkanKovankaya
-	📸 instagram@FurkanKovankaya
+	📸instagram@FurkanKovankaya
 
 <!---
 FurkanKovan/FurkanKovan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
