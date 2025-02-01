@@ -1,2 +1,1 @@
-		Socials
-	🔗linkedin@FurkanKovankaya
+🔗linkedin@FurkanKovankaya
